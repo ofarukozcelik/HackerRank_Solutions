@@ -1,8 +1,8 @@
 # My HackerRank Solutions with JavaScript.
 
 
-| Nu: | Problem:        | Solution:|
-|:---:|:---------------:|:--------:|
+| Nu: | Problems:                  | Solutions:   | 
+|:---:|:--------------------------:|:------------:|
 | 1 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [JavaScript](/Solutions/01-Solve-Me-First.js) | 
 | 2 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [JavaScript](/Solutions/02-Simple-Array-Sum.js) | 
 | 3 |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [JavaScript](/Solutions/03-Compare-The-Triplets.js) | 
