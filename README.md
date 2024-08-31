@@ -1,4 +1,4 @@
-# My HackerRank Solutions with JavaScript.
+# My HackerRank Solutions with JavaScript (1-100) :
 
 
 | Nu: | Problems:                  | Solutions:   | 
